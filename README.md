@@ -62,7 +62,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
  ## Interview Recording URL Link
 
- [My 5-minute Interview Recording](your-link-here)
+ [My 5-minute Interview Recording](https://www.loom.com/share/dc2ce8412909412db1e74ae2f950f204)
+ <img src='https://www.loom.com/share/dc2ce8412909412db1e74ae2f950f204' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
  ## License
