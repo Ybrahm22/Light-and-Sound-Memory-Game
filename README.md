@@ -1,6 +1,6 @@
 # Pre-work - *Light and Sound Memory Game*
 
- **Light and Sound Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
+ **Light and Sound Memory Game** is a game to apply for CodePath's SITE Program. 
 
  Submitted by: **Yug Brahmbhatt**
 
