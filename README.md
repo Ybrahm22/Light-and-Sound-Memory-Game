@@ -40,7 +40,9 @@
 
  ## Video Walkthrough (GIF)
 
-https://github.com/Ybrahm22/Light-and-Sound-Memory-Game/blob/main/Prework%20walkthrough.gif
+<img src='https://github.com/Ybrahm22/Light-and-Sound-Memory-Game/blob/main/Prework%20walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
  ## Reflection Questions
  1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
