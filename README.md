@@ -7,8 +7,8 @@
 
  Time spent: **7** hours spent in total
 
-
- Link to project: https://glitch.com/edit/#!/codepath-prework-memory-game?path=script.js%3A1%3A0
+ Live site: https://codepath-prework-memory-game.glitch.me
+ Link to project with code: https://glitch.com/edit/#!/codepath-prework-memory-game
 
 
  ## Required Functionality
